@@ -1,4 +1,4 @@
-# 👋 **Hi there! I'm Oswell Okine**
+# :space_invader:	 **Oswell Okine**
 
 <p>I'm a Software Developer, Tech Assistant and Team Lead at Bridge Hiring LLC passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities.</p>
 
