@@ -1,6 +1,6 @@
 # 👋 **Hi there! I'm Oswell Okine**
 
-<p align="center">![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)</p>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <p>I'm a Software Developer, Tech Assistant and Team Lead at Bridge Hiring LLC passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities.</p>
 
 <!--
