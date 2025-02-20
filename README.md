@@ -8,7 +8,7 @@
 
 ### Oswell's GitHub Stats
 
-[![Oswell's GitHub stats](https://github-readme-stats.vercel.app/api?username=oswell-nii)](https://github.com/oswell-nii/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oswell-nii)](https://github.com/oswell-nii/github-readme-stats)
+[![Oswell's GitHub stats](https://github-readme-stats.vercel.app/api?username=oswell-nii)](https://github.com/oswell-nii/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oswell-nii&layout=compact)](https://github.com/oswell-nii/github-readme-stats)
 
 <!--
 **oswell-nii/oswell-nii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
