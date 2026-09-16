@@ -10,6 +10,9 @@
 ### My Github Stats
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=oswell-nii&show_icons=true&theme=tokyonight)
 
+### Top Languages
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oswell-nii&layout=compact&theme=tokyonight)
+
 <!--
 **oswell-nii/oswell-nii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
