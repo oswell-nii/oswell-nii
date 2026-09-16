@@ -18,9 +18,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oswell-nii&theme=tokyonight" />
 </p>
 
-## Let's Connect!
+## 📫 Connect With Me
 
-- Here is my [LinkedIn]([https://www.linkedin.com/in/oswell-okine/]) profile
+- 💼 LinkedIn: [Oswell Okine](https://www.linkedin.com/in/oswell-okine/)
 <!--
 **oswell-nii/oswell-nii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
