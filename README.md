@@ -14,6 +14,10 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oswell-nii&layout=compact&theme=tokyonight" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oswell-nii&theme=tokyonight" />
+</p>
+
 <!--
 **oswell-nii/oswell-nii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
