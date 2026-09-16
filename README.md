@@ -20,7 +20,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Oswell Okine](https://www.linkedin.com/in/oswell-okine/)
+<a href="https://www.linkedin.com/in/oswell-okine/">
+  <img src="https://img.shields.io/badge/LinkedIn-Oswell%20Okine-blue?style=for-the-badge&logo=linkedin" />
+</a>
 <!--
 **oswell-nii/oswell-nii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
