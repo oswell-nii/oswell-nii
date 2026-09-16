@@ -7,11 +7,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### My Github Stats
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=oswell-nii&show_icons=true&theme=tokyonight)
+## 📈 GitHub Stats
 
-### Top Languages
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oswell-nii&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oswell-nii&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oswell-nii&layout=compact&theme=tokyonight" height="180" />
+</p>
 
 <!--
 **oswell-nii/oswell-nii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
