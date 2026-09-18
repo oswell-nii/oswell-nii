@@ -18,6 +18,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oswell-nii&theme=tokyonight" />
 </p>
 
+# 🚀 Featured Projects
+## 🎮 [Hangman Android App](https://github.com/oswell-nii/HelloAndroidKotlin)
+
+A Kotlin Android game with Firebase integration for saving and loading game progress.
+
+**Built with:**
+- Kotlin
+- Jetpack Compose
+- Firebase Firestore
+
+  
 ## 📫 Connect With Me
 
 <a href="https://www.linkedin.com/in/oswell-okine/">
